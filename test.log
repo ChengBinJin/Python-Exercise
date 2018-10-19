@@ -1,0 +1,12 @@
+DEBUG:root:Add: 10 + 5 = 15
+DEBUG:root:Sub: 10 - 5 = 5
+DEBUG:root:Mul: 10 * 5 = 50
+DEBUG:root:Div: 10 / 5 = 2.0
+DEBUG:root:Add: 20 + 10 = 30
+DEBUG:root:Sub: 20 - 10 = 10
+DEBUG:root:Mul: 20 * 10 = 200
+DEBUG:root:Div: 20 / 10 = 2.0
+2018-10-19 14:04:24,892:DEBUG:Add: 20 + 10 = 30
+2018-10-19 14:04:24,892:DEBUG:Sub: 20 - 10 = 10
+2018-10-19 14:04:24,892:DEBUG:Mul: 20 * 10 = 200
+2018-10-19 14:04:24,892:DEBUG:Div: 20 / 10 = 2.0
