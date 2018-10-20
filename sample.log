@@ -1,0 +1,22 @@
+2018-10-20 16:25:51,014:__main__:Tried to divide by zero
+2018-10-20 16:25:52,166:__main__:Tried to divide by zero
+2018-10-20 16:26:36,549:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "E:/BOBBY/Python/003_python_exercise/log-sample_007.py", line 33, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2018-10-20 16:28:38,426:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "E:/BOBBY/Python/003_python_exercise/log-sample_007.py", line 35, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2018-10-20 16:29:17,981:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "E:/BOBBY/Python/003_python_exercise/log-sample_007.py", line 35, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2018-10-20 16:31:26,055:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "E:/BOBBY/Python/003_python_exercise/log-sample_007.py", line 38, in divide
+    result = x / y
+ZeroDivisionError: division by zero
